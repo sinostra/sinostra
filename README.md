@@ -1,4 +1,4 @@
-<div align="center"> ‎‎‎ ‎<a href="https://stalagmite.carrd.co"> crd </a>  ‎‎‎‎‎ ‎‎‎ ‎‎‎‎   ‎‎‎‎‎ ‎‎‎ ‎‎‎‎  ‎‎‎  ‎‎‎‎‎‎ ‎‎‎‎ ‎‎‎‎‎‎‎ ‎<a href="https://taiga.atabook.org"> ata </a>
+<div align="center"> ‎‎‎ ‎<a href="https://hoshibami.carrd.co/"> crd </a>  ‎‎‎‎‎ ‎‎‎ ‎‎‎‎   ‎‎‎‎‎ ‎‎‎ ‎‎‎‎  ‎‎‎  ‎‎‎‎‎‎ ‎‎‎‎ ‎‎‎‎‎‎‎ ‎<a href="https://taiga.atabook.org"> ata </a>
  </div> 
 
 
